@@ -28,4 +28,4 @@ The IoT project work mainly consists of three components and they are-
 
 #### Project Details:
 
-The project has three parts and the details of every part have been included [here](https://github.com/supritighosh/Sensor-Data-Analysis-IoT/blob/main/Project%20Report/IoT_Project_Report.pdf). 
+The project has three parts and the details of every part have been included [here](https://github.com/supritighosh/Sensor-Data-Analysis-IoT/blob/master/Project%20Report/IoT_Project_Report.pdf). 
